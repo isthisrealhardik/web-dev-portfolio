@@ -9,7 +9,7 @@ import Logo6 from "../Assets/Logos/Walmart.svg"
 import gallery1 from "../Assets/Spense.png"
 import gallery2 from "../Assets/YelpCamp.png"
 import icon1 from "../Assets/Social Icons/Github.svg"
-import icon2 from "../Assets/Social Icons/Linkedin.svg"
+import icon2 from "../Assets/Social Icons/LinkedIn.svg"
 import icon3 from "../Assets/Social Icons/Twitter.svg"
 
 const logos = [
